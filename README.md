@@ -1,2 +1,2 @@
 # jevy18.github.io
-testing static website with this repo
+Default testing of this static website repo.
